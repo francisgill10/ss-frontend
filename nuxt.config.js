@@ -77,7 +77,13 @@ export default {
   ** Nuxt.js modules
   */
   modules: [
+    // https://go.nuxtjs.dev/axios
+    '@nuxtjs/axios'    
   ],
+  axios: {
+    // baseURL: 'http://localhost:8000/api'
+    baseURL: 'https://standalonesolution-backend.herokuapp.com/api'  
+  },
   /*
   ** Build configuration
   */
