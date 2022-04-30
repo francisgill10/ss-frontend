@@ -41,7 +41,12 @@ export default {
       { src: "/js/owl.carousel.js", type: "text/javascript", body: true },
       { src: "/js/slick.js", type: "text/javascript", body: true },
       { src: "/js/jquery.appear.js", type: "text/javascript", body: true },
+      {
+        src : "https://www.googletagmanager.com/gtag/js?id=UA-227573641-1",
+        async: true
+      }
     ]
+    
   },
   /*
   ** Customize the progress-bar color
@@ -79,11 +84,7 @@ export default {
   modules: [
     // https://go.nuxtjs.dev/axios
     '@nuxtjs/axios',
-    '@nuxtjs/google-adsense'    
   ],
-  'google-adsense': {
-    id: 'ca-pub-UA-227573641-1'
-  },
   axios: {
     // baseURL: 'http://localhost:8000/api'
     baseURL: 'https://standalonesolution-backend.herokuapp.com/api'  
