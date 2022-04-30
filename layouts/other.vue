@@ -18,7 +18,7 @@
     },
     head(){
       return {
-        title: "Standalone Solutions"
+        title: "Standalone Solution | Digital Services"
       }
     },
     mounted () {

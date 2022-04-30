@@ -18,7 +18,7 @@
     },
     head(){
       return {
-        title: "Meipaly - Vue Nuxt Digital Services Agency Template"
+        title: "Standalone Solution | Digital Services"
       }
     },
     mounted () {
