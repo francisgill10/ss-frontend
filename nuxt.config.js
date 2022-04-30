@@ -5,11 +5,11 @@ export default {
   ** Headers of the page
   */
   head: {
-    title: process.env.npm_package_name || '',
+    title: 'Standalone Solution | Digital Services',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: process.env.npm_package_description || '' }
+      { hid: 'description', name: 'description', content: 'Standalone Solution | Digital Services' }
     ],
     link: [
       { rel: 'icon', type: 'image/png', href: '/images/favicon.png' },
@@ -33,7 +33,7 @@ export default {
       { src: "/js/bootstrap.min.js", type: "text/javascript", body: true },
       { src: "/js/modernizr.custom.js", type: "text/javascript", body: true },
       { src: "/js/gmaps.js", type: "text/javascript", body: true },
-      { src: "https://maps.google.com/maps/api/js?key=AIzaSyDTPlX-43R1TpcQUyWjFgiSfL_BiGxslZU", type: "text/javascript", body: true },
+      // { src: "https://maps.google.com/maps/api/js?key=AIzaSyDTPlX-43R1TpcQUyWjFgiSfL_BiGxslZU", type: "text/javascript", body: true },
       { src: "/js/dlmenu.js", type: "text/javascript", body: true },
       { src: "/js/jquery.magnific-popup.js", type: "text/javascript", body: true },
       { src: "/js/mixer.js", type: "text/javascript", body: true },
