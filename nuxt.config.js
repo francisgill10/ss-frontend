@@ -78,8 +78,12 @@ export default {
   */
   modules: [
     // https://go.nuxtjs.dev/axios
-    '@nuxtjs/axios'    
+    '@nuxtjs/axios',
+    '@nuxtjs/google-adsense'    
   ],
+  'google-adsense': {
+    id: 'ca-pub-UA-227573641-1'
+  },
   axios: {
     // baseURL: 'http://localhost:8000/api'
     baseURL: 'https://standalonesolution-backend.herokuapp.com/api'  
