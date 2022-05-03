@@ -5,18 +5,19 @@
         <div class="row">
           <div class="col-lg-5 col-sm-6 col-md-5">
             <aside class="widget aboutwidget">
-              Standalone Solutions
+              About Us
               <!-- <a href="#"><img src="/images/foo_logo.png" alt=""></a> -->
               <p>
-                Welcome to our Standalone Solution a digital company. We are
-                here to provide the best on demand services.
+                We are here to provide the best on demand services. No need hire a programmer or developer. 
+                No Need to give the big amount to the Tech Company. You just need to give us the project as out source in most reasonable prices.
               </p>
+              <b>"We only charge after the project completion."</b>
             </aside>
           </div>
           <div class="col-lg-4 col-sm-4 col-md-4">
             <aside class="widget contact_widgets">
               <h3 class="widget_title">contact</h3>
-              <p>sidra 3, near fish round about, Deira Dubai</p>
+              <p>Deira Dubai near fish round about, UAE</p>
               <p>P: +971581585091</p>
               <p>WA: +923108559858</p>
               <p>E: contact@standalonesolution.com</p>
