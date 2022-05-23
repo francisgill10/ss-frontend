@@ -39,9 +39,7 @@
       Clients,
       Testimonial,
       BlogHome,
-      CallToAction,
-
-
+      CallToAction
     }
   }
 </script>

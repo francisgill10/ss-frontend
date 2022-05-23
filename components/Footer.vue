@@ -9,9 +9,9 @@
               <!-- <a href="#"><img src="/images/foo_logo.png" alt=""></a> -->
               <p>
                 We are here to provide the best on demand services. No need hire a programmer or developer. 
-                No Need to give the big amount to the Tech Company. You just need to give us the project as out source in most reasonable prices.
+                No need to give the big amount to the Tech Company. You just need to give us the project as out source in most reasonable cost.
               </p>
-              <b>"We only charge after the project completion."</b>
+              <!-- <b>"We only charge after the project completion."</b> -->
             </aside>
           </div>
           <div class="col-lg-4 col-sm-4 col-md-4">

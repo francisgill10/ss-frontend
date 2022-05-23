@@ -2,7 +2,7 @@
   <!-- Site Slider Start -->
   <section class="slider-one">
     <div class="slider-one__carousel owl-carousel owl-theme">
-      <div class="item slider-one__slider-1" style="background-image: url(/images/slider/1_1.jpg);">
+      <div class="item slider-one__slider-1" style="background-image: url('/images/slider/1_1.jpg');">
         <div class="container slider__content">
           <p class="slider-one__text">WELCOME TO STANDALONE SOLUTIONS</p>
           <div class="slider-one__title tp-caption tp-resizeme">DIGITAL MARKETING</div>
@@ -12,7 +12,7 @@
         <!-- /.container -->
       </div>
       <!-- /.item -->
-      <div class="item slider-one__slider-2" style="background-image: url(/images/slider/1_2.jpg);">
+      <div class="item slider-one__slider-2" style="background-image: url('/images/slider/1_2.jpg');">
         <div class="container slider__content">
           <p class="slider-one__text">WELCOME TO STANDALONE SOLUTIONS</p>
           <div class="slider-one__title tp-caption tp-resizeme">WEB DEVELOPMENT</div>
@@ -22,7 +22,7 @@
       </div>
       <!-- /.item -->
 
-	   <div class="item slider-one__slider-2" style="background-image: url(/images/slider/1_1.jpg);">
+	   <div class="item slider-one__slider-2" style="background-image: url('/images/slider/1_1.jpg');">
         <div class="container slider__content">
           <p class="slider-one__text">WELCOME TO STANDALONE SOLUTIONS</p>
           <div class="slider-one__title tp-caption tp-resizeme">MOBILE DEVELOPMENT</div>
@@ -33,7 +33,7 @@
       <!-- /.item -->
 
 	  
-	   <div class="item slider-one__slider-2" style="background-image: url(/images/slider/1_2.jpg);">
+	   <div class="item slider-one__slider-2" style="background-image: url('/images/slider/1_2.jpg');">
         <div class="container slider__content">
           <p class="slider-one__text">WELCOME TO STANDALONE SOLUTIONS</p>
           <div class="slider-one__title tp-caption tp-resizeme">GRAPHIC DESIGN</div>
@@ -43,7 +43,7 @@
       </div>
       <!-- /.item -->
 
-	   <div class="item slider-one__slider-2" style="background-image: url(/images/slider/1_1.jpg);">
+	   <div class="item slider-one__slider-2" style="background-image: url('/images/slider/1_1.jpg');">
         <div class="container slider__content">
           <p class="slider-one__text">WELCOME TO STANDALONE SOLUTIONS</p>
           <div class="slider-one__title tp-caption tp-resizeme">SEO & CONTENT WRITING</div>
