@@ -6,7 +6,7 @@
           <h2 class="sec_title white">Let's Get Your Project Started!</h2>
         </div>
         <div class="col-lg-3 col-sm-4 col-md-3 text-right">
-          <a class="common_btn" :class="[design === 'style2' ? 'red_bg' : '']" href="/contact"><span>Get Pricing</span></a>
+          <a class="common_btn" target="_blank" :class="[design === 'style2' ? 'red_bg' : '']" href="https://api.whatsapp.com/send/?phone=923108559858&text&app_absent=0"><span>Get Pricing</span></a>
         </div>
       </div>
     </div>

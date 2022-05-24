@@ -17,10 +17,10 @@
           <div class="col-lg-4 col-sm-4 col-md-4">
             <aside class="widget contact_widgets">
               <h3 class="widget_title">contact</h3>
-              <p>Deira Dubai near fish round about, UAE</p>
-              <p>P: +971581585091</p>
-              <p>WA: +923108559858</p>
-              <p>E: contact@standalonesolution.com</p>
+              <p><i class="fa fa-map-marker"></i>  Concord Building - 15 A St - Al Mankhool - Dubai, UAE</p>
+              <p><i class="fa fa-phone"></i> 0581585091</p>
+              <p><i class="fa fa-whatsapp"></i> +923108559858</p>
+              <p><i class="fa fa-globe"></i> standalonesolution.com</p>
             </aside>
           </div>
           <div class="col-lg-3 col-sm-2 col-md-3">
@@ -51,7 +51,7 @@
           <div class="col-lg-12 col-sm-12 text-center">
             <div class="copyright">
               © copyright {{ new Date().getFullYear() }} by
-              <a href="#">standalonesolutions.com</a>
+              <a href="#">standalonesolution.com</a>
             </div>
           </div>
         </div>

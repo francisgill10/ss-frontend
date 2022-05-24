@@ -5,13 +5,13 @@
         <div class="row">
           <div class="col-lg-8 col-sm-3 col-md-3">
             <div class="navigator">
-              <a href="/">Standalone Solutions</a>
+              <a href="/">Standalone Solution</a>
             </div>
           </div>
           <div class="col-lg-4 col-sm-9 col-md-9">
             <div class="navigator text-right">
               <!-- <a href="#">Whatsapp: +923108559858</a> -->
-              <a href="#">Phone: +971581585091</a>
+              <a href="#"><i class="fa fa-phone"></i> 0581585091</a>
               <!-- <a href="#">Email: contact@standalonesolution.com</a> -->
             </div>
           </div>

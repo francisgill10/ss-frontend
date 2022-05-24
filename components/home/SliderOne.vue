@@ -6,7 +6,8 @@
         <div class="container slider__content">
           <p class="slider-one__text">WELCOME TO STANDALONE SOLUTIONS</p>
           <div class="slider-one__title tp-caption tp-resizeme">DIGITAL MARKETING</div>
-          <a href="/contact" class="common_btn"><span>Contact Us</span></a>
+          <a target="_blank" href="https://api.whatsapp.com/send/?phone=923108559858&text&app_absent=0" class="common_btn"><span>Whatsapp Us</span></a>
+
           <!-- /.slider-one__text -->
         </div>
         <!-- /.container -->
@@ -16,7 +17,7 @@
         <div class="container slider__content">
           <p class="slider-one__text">WELCOME TO STANDALONE SOLUTIONS</p>
           <div class="slider-one__title tp-caption tp-resizeme">WEB DEVELOPMENT</div>
-          <a href="/contact" class="common_btn"><span>Contact Us</span></a>
+          <a target="_blank" href="https://api.whatsapp.com/send/?phone=923108559858&text&app_absent=0" class="common_btn"><span>Whatsapp Us</span></a>
         </div>
         <!-- /.container -->
       </div>
@@ -26,7 +27,7 @@
         <div class="container slider__content">
           <p class="slider-one__text">WELCOME TO STANDALONE SOLUTIONS</p>
           <div class="slider-one__title tp-caption tp-resizeme">MOBILE DEVELOPMENT</div>
-          <a href="/contact" class="common_btn"><span>Contact Us</span></a>
+          <a target="_blank" href="https://api.whatsapp.com/send/?phone=923108559858&text&app_absent=0" class="common_btn"><span>Whatsapp Us</span></a>
         </div>
         <!-- /.container -->
       </div>
@@ -37,7 +38,7 @@
         <div class="container slider__content">
           <p class="slider-one__text">WELCOME TO STANDALONE SOLUTIONS</p>
           <div class="slider-one__title tp-caption tp-resizeme">GRAPHIC DESIGN</div>
-          <a href="/contact" class="common_btn"><span>Contact Us</span></a>
+          <a target="_blank" href="https://api.whatsapp.com/send/?phone=923108559858&text&app_absent=0" class="common_btn"><span>Whatsapp Us</span></a>
         </div>
         <!-- /.container -->
       </div>
@@ -47,7 +48,7 @@
         <div class="container slider__content">
           <p class="slider-one__text">WELCOME TO STANDALONE SOLUTIONS</p>
           <div class="slider-one__title tp-caption tp-resizeme">SEO & CONTENT WRITING</div>
-          <a href="/contact" class="common_btn"><span>Contact Us</span></a>
+          <a target="_blank" href="https://api.whatsapp.com/send/?phone=923108559858&text&app_absent=0" class="common_btn"><span>Whatsapp Us</span></a>
         </div>
         <!-- /.container -->
       </div>
